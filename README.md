@@ -675,7 +675,7 @@ Table of Contents
    * [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
 
 ## Design and UI
-
+   * [Mockplus iDoc](https://www.mockplus.com/idoc) — Mockplus iDoc is a powerful design collaboration & handoff tool. Free Plan includes 3 users and 5 projects with all features available.
   * [landen.co](https://www.landen.co) — Generate, edit and publish beautiful websites and landing pages for your startup. All without code. Free tier allows you to have one website, fully customizable and published on the web.
   * [pixlr.com](https://pixlr.com/) — Free online browser editor on the level of commercial ones.
   * [imagebin.ca](https://imagebin.ca/) — Pastebin for images.
